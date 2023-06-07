@@ -1,0 +1,5 @@
+//escreve o que não deve ser enviado
+
+out
+.idea
+*.iml
